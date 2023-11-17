@@ -6,3 +6,7 @@
     <br />
   </p>
 </div>
+
+<div align = "center">
+  <img src="img1.jpg" width = "500" height = 600>
+</div>
